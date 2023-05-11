@@ -10,7 +10,7 @@ I'm currently working on a Simple app that makes process injection easy in c++<b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MARIUCHINAS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARIUCHINAS&theme=dark&hide_border=false)<br/>
-![]()
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARIUCHINAS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MARIUCHINAS&icon=0&color=0)](https://visitcount.itsvg.in)
