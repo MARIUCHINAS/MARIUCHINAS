@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Simple app that makes process injection easy in c++<br>I'm looking to collaborate on projects with other people<br>I'm looking to help with simple c#, c++, godot or python projects<br>I'm currently learning c++ process injection and basic c++<br>Ask me about anything you want<br>
+I'm currently working on Games<br>I'm looking to collaborate on projects with other people<br>I'm looking to help with simple c#, c++, godot or python projects<br>I'm currently learning anything I feel like<br>Ask me about anything you want<br>
 
 
 ## 🌐 Socials:
